@@ -1,6 +1,6 @@
 # Inteligencia Artificial 🧠👾
 
-<a href="link_to_english_readme"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English Version" width="30"> English Version</a>
+<a href="./EN-version/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English Version" width="30"> English Version</a>
 
 En este pequeño rincon de internet iré subiendo poco a poco todos los trabajos que me resulten interesantes y que estén relacionados con la Inteligencia Artificial (IA). Este repositorio es una colección de mis experimentos, pruebas y proyectos utilizando diferentes métodos de IA, incluyendo redes neuronales o trabajos que me parezcan interesantes.
 
